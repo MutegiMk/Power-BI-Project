@@ -1,4 +1,4 @@
-# Power-BI-Project
+# Power-BI-Projects
 ## Customer Retention analysis
 > Unlock the secrets of customer retention and churn with my meticulously crafted dashboard. With years of experience in data analysis, I have created a custom-built tool that provides a comprehensive view of your customer retention metrics. Track key performance indicators such as churn rates, customer lifetime value, and customer acquisition cost. Gain insights into trends and patterns to understand why customers leave, and take proactive measures to retain them. With my extensive expertise in data visualization and analysis, I have crafted a dashboard that empowers businesses to make informed decisions to improve customer retention. My attention to detail and passion for delivering high-quality results has helped me hone my skills and excel in numerous projects. Partner with me to harness the power of data and drive growth for your business.
 
